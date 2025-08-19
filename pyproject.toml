@@ -1,0 +1,9 @@
+[project]
+name = "eei2-ejercicios"
+version = "0.1.0"
+description = "Ejercicios prácticos para la materia Estadística e Inferencia 2 de la Licenciatura en Ciencia De Datos (UNSAM)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.30.1",
+]
