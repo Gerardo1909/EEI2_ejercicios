@@ -5,6 +5,7 @@ description = "Ejercicios prácticos para la materia Estadística e Inferencia 2
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "graphviz>=0.21",
     "ipykernel>=6.30.1",
     "ipywidgets>=8.1.7",
     "matplotlib>=3.10.5",
